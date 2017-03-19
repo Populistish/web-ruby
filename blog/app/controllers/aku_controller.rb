@@ -1,2 +1,0 @@
-class AkuController < ApplicationController
-end

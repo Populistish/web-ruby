@@ -1,2 +1,0 @@
-class Populist < ApplicationRecord
-end
